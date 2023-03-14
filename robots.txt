@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://eaaomk.github.io/blognext/blognext/sitemap.xml

@@ -1,0 +1,1 @@
+import{_ as t,V as c,W as r,X as e,Y as a}from"./framework-bcbeea85.js";const s={},o=e("h1",{id:"service",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#service","aria-hidden":"true"},"#"),a(" Service")],-1),_=[o];function n(i,d){return c(),r("div",null,_)}const l=t(s,[["render",n],["__file","3.html.vue"]]);export{l as default};
